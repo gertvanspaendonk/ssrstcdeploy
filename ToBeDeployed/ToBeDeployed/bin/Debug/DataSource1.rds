@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=127.0.0.1,21433;Initial Catalog=gvsTestDb</ConnectString>
+    <Prompt>pwd plz</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>e613555d-0db6-4c1c-8a23-644aacabf9ea</DataSourceID>
+</RptDataSource>
